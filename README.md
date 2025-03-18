@@ -16,8 +16,11 @@ Challenge amigo secreto de Alura Latam grupo 8 One
 
 🎮 Cómo jugar
 1️⃣ Añadir jugadores: Escribe cada nombre en el campo y agrégalo con el botón correspondiente.
+
 2️⃣ Revisar la lista: Asegúrate de que todos los participantes estén en la lista.
+
 3️⃣ Sortear un amigo secreto: Presiona el botón de sorteo y deja que la suerte haga su trabajo.
+
 4️⃣ Ver el resultado: Aparecerá en pantalla el nombre del afortunado elegido.
 
 
